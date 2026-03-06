@@ -1,5 +1,6 @@
-print("--- RPG MACKENZIE: A JORNADA  ---")
+print("--- RPG MACKENZIE: A JORNADAASDASDASDASD  ---")
 
 
 
+print("--- RPG JORNADAAAAAAAAAAAAAAAAAAAA ---")
 print("--- RPG JORNADA  ---")

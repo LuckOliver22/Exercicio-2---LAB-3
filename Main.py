@@ -1,1 +1,1 @@
-print("--- RPG MACKENZIE: A JORNADA ---")
+print("--- RPG MACKENZIE: Qualquer coisa seila ---")

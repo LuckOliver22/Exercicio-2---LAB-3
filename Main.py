@@ -1,1 +1,1 @@
-print("--- RPG MACKENZIE:  ---")
+print("--- RPG  ---")

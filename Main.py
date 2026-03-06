@@ -1,1 +1,1 @@
-print("--- PINDAMONHANGABA ---")
+print("--- RPG MACKENZIE: A JORNADA ---")
